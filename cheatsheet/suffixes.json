@@ -1,0 +1,9 @@
+{
+	"zorz" : "Puts extra emphasis on a word (mostly used to add sarcasm)",
+	"xor" : "Derivation of agent nouns from a verb stem. Substitution for -er or -r",
+	"zor" : "Derivation of agent nouns from a verb stem. Substitution for -er or -r",
+	"age" : "Derivation of a noun from a verb stem",
+	"ness" : "Derivation of a noun from an adjective stem",
+	"ed" : "Replacing the -e of past participle endings with an apostrophe or omiting it completely",
+	"&" : "Words containing -and-, -anned- or - ant- (or similar sounds) are replaced by ampersands (&)"
+}
